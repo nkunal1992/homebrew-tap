@@ -1,6 +1,6 @@
 cask "trakisilo" do
-  version "1.10.0"
-  sha256 "ce4fbcd0fb6801d355ffa0b1b3149e63de2a53cb131390bfba9bc0f3380a35c8"
+  version "1.10.1"
+  sha256 "250efa3fe92e5b59b9fb4322d4943fab94925f8d2c9a379622fc6e7a2943cbd6"
 
   url "https://github.com/nkunal1992/Trakisilo-site/releases/download/v#{version}/Trakisilo_#{version}_universal.dmg"
   name "Trakisilo"
