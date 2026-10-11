@@ -1,4 +1,4 @@
-cask "trakisisilo" do
+cask "trakisilo" do
   version "1.10.0"
   sha256 "ce4fbcd0fb6801d355ffa0b1b3149e63de2a53cb131390bfba9bc0f3380a35c8"
 
